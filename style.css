@@ -1,0 +1,84 @@
+.style 
+{
+	width: 2845px;
+	height: 1282px;
+	background-image: url(./sprite.png);
+	text-align:center;
+	position:relative;
+	display:flex;
+	flex-direction:row;
+}
+
+.main
+{
+	display:flex;
+	justify-content:center;
+	margin-top:10%;
+}
+
+.style1
+{
+	left:0px;
+	width:513px;
+	height:1282px;
+}
+
+
+.style1:hover
+{
+	background-color: red;
+	opacity:0.7;
+}
+
+.style1position
+{
+	height:513px;
+	width:513px;
+	padding:0px;
+	background: url(./sprite.png) 0px -384.5px no-repeat;
+}
+
+.style2
+{
+	left:513px;
+	width:860px;
+	height:1282px;
+}
+
+
+.style2:hover
+{
+	background-color: green;
+	opacity:0.7;
+}
+
+.style2position
+{
+	height:953px;
+	width:860px;
+	padding:0px;
+	background: url(./sprite.png) -513px -164.5px no-repeat;
+}
+
+.style3
+{
+	left:1373px;
+	width:1472px;
+	height:1282px;
+}
+
+
+.style3:hover
+{
+	background-color: yellow;
+	opacity:0.7;
+}
+
+.style3position
+{
+	height:1282px;
+	width:1472px;
+	padding:0px;
+	background: url(./sprite.png) -1373px -0px no-repeat;
+}
+
