@@ -1,10 +1,10 @@
-# sprite
-Repository pour le projet sprite generator développé en php, projet individuel
-[Utilisation de la librairie GD]
-[Techno : PHP]
-[BUT : generer une image avec un ensemble d'images passees en parametre du programme]
+# sprite generator [PHP]
+Repository pour le projet sprite generator développé en php, projet individuel  
+[Utilisation de la librairie GD]  
+[Techno : PHP]  
+[BUT : generer une image avec un ensemble d'images passees en parametre du programme]  
 # 💫 About Me:
-I am currently learning web development :-)
+Je suis actuellement étudiant en développement web et en recherche d'alternance :-)
 
 
 ## 🌐 Socials:
