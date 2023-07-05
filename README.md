@@ -1,5 +1,5 @@
 # sprite
-repo for sprite generator in php
+Repository pour sprite generator développé en php
 [Utilisation de la librairie GD]
 [Techno : PHP]
 [BUT : generer une image avec un ensemble d'images passees en parametre du programme]
